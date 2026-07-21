@@ -1,4 +1,4 @@
-## <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1be2d1d0-28f4-4445-a647-6a7c684782f1" />
+## <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/8f156d30-6f7e-4a7e-8037-86674dc525ad" />
 
 <!--
 **jonpluey/jonpluey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
